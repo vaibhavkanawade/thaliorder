@@ -1,0 +1,19 @@
+.home {
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5f2fa039103c7a08856032c1/1653757576778-GOCQPNGCFA6C6LL2QRI6/public.jpeg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+}
+
+.home button {
+  outline: none;
+  border: 2px solid rgb(26, 201, 157);
+  background-color: rgb(26, 201, 157);
+  border-radius: 5px;
+  color: black;
+  position: relative;
+  top: 90%
+}
